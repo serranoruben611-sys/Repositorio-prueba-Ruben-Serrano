@@ -1,2 +1,2 @@
-# Repositorio-prueba-Ruben-Serrano
+# prueba-Ruben-Serrano
 Primer repositorio
